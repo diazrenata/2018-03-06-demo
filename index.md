@@ -18,8 +18,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
-This is a demo header.
-It says things about who the instructors are and where this workshop is happening.
+"This is some information about the workshop!"
 {% comment %}
   HEADER
 
